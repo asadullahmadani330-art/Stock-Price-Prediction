@@ -1,0 +1,2 @@
+this project focuses on analyzing historical stock market data and building a predictive model to estimate future stock price trends. The workflow includes data preprocessing, exploratory data analysis, feature engineering, and time-series-based prediction modeling.
+The objective is not to “perfectly predict the market” (which is unrealistic), but to explore patterns in historical price data and evaluate how machine learning models perform on financial time series.
